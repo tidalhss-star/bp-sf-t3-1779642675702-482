@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 화곡 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-482.pages.dev</link>
-  <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 13:36:37 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 13:36:37 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-482.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://sf-t3-1779642675702-482.vercel.app</link>
+  <description><![CDATA[서버 웜업 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 20:17:28 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 20:17:28 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-482.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 화곡 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-482.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-482.pages.dev/</guid>
-      <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 13:36:37 GMT</pubDate>
+      <title><![CDATA[화곡 셔츠룸 경험자에게 물어본 현실적인 판단 기준]]></title>
+      <link>https://sf-t3-1779642675702-482.vercel.app/posts/interview-002-1kryk47.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-482.vercel.app/posts/interview-002-1kryk47.html</guid>
+      <description><![CDATA[### 포스트 DNA 9889b0fd #### 제목: 창작한 제목: "통화스와프 연장 논의, 외교적 갈등의 시작" 아, 진짜... 이 통화스와프 협정 만료 직전의 비공식 채널에서 갈등의 소음을 전한 순간은 한때 세계 경제를 뒤흔든 대규모 외匯위기에도 불구하고 여전히 기]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
